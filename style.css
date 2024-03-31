@@ -1,0 +1,27 @@
+#box{
+    background-color: #b2b0ff;
+    margin-left: 25%;
+    width: 600px;
+    border-radius: 30px;
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#hi{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(120, 118, 214);
+    border-radius: 50%;
+}
+img{
+    padding-top: 20px;
+}
+#footer{
+    height: 100px;
+    color: rgb(47, 0, 91);
+}
+input{
+    text-align: center;
+}
